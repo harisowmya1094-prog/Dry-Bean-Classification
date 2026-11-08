@@ -13,8 +13,7 @@ The objective of this project is to classify dry beans into seven distinct regis
 * **Preprocessing Applied:** Missing value verification, Label Encoding for the multi-class target variable (`Class`), stratified train-test split (80:20 ratio), and feature scaling using `StandardScaler` to normalize morphological measurements across differing scales.
 
 ## c. GitHub Repository Link
-* **GitHub Repository:** [Insert your clickable GitHub Repo URL here]
-* **Live Streamlit App:** [Dry Bean Classification Dashboard](https://dry-bean-classification-e84cyv9pnlt3qksdeesbbr.streamlit.app/)
+* **GitHub Repository:** https://github.com/harisowmya1094-prog/Dry-Bean-Classification.git
 
 ### Repository Structure
 ```text
@@ -23,7 +22,6 @@ project-folder/
 ├── requirements.txt
 ├── README.md
 ├── test_data.csv
-├── notebook.ipynb (or train.py)
 └── model/
     ├── logistic_regression.pkl
     ├── decision_tree.pkl
