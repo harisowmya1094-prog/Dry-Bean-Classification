@@ -42,7 +42,7 @@ The goal is to classify dry beans into one of seven registered varieties based o
 5. Saved the fitted `StandardScaler` (`scaler.pkl`) and all 5 trained models (`*.pkl`) in the `model/` directory so the Streamlit app can apply the exact same scaling to uploaded CSV files before predicting.
 
 ## c. GitHub repository link
-* **GitHub Repository:** `https://github.com/harisowmya1094-prog/Dry-Bean-Classification.git`
+* **GitHub Repository:** https://github.com/harisowmya1094-prog/Dry-Bean-Classification.git/
 * **Live Streamlit App:** https://dry-bean-classification-e84cyv9pnlt3qksdeesbbr.streamlit.app/
 
 ```text
