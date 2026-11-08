@@ -15,22 +15,6 @@ The objective of this project is to classify dry beans into seven distinct regis
 ## c. GitHub Repository Link
 * **GitHub Repository:** https://github.com/harisowmya1094-prog/Dry-Bean-Classification.git
 
-### Repository Structure
-```text
-project-folder/
-├── app.py
-├── requirements.txt
-├── README.md
-├── test_data.csv
-└── model/
-    ├── logistic_regression.pkl
-    ├── decision_tree.pkl
-    ├── knn.pkl
-    ├── naive_bayes.pkl
-    ├── svm.pkl
-    └── scaler.pkl
-```
-
 ## d. Models Used & Performance Evaluation
 
 ### 1. Model Evaluation Metrics Comparison Table
